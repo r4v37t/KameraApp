@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "id.go.kapuaskab.dpu.kameraapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "id.go.kapuaskab.dpu.kameraapp"
+    }
+  },
+  "dependent_plugins": {}
+}
